@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">10 Longest Bridges in the World</string>
+    <string name="overview">
+On May 27, 1937, 200,000 people gathered in the streets of San Francisco to celebrate the grand opening of the Golden Gate Bridge, a milestone achievement in engineering at the time and one of the world’s modern wonders. At over 4,000 feet long, the Golden Gate Bridge today does not even register on any list of longest bridges in the world. Below is the list of Top 10 longest bridges in the world today. As you read it, ponder carefully the future as well as the past. Behold! \n\n
+    </string>
+    <string name="bt1">
+Located in the great state of Louisiana, this bridge was completed in 1979 and is claimed by some to be the longest toll-free bridge in the world. It’s part of Interstate Highway 55, so it’s road-based, and the coolest (or scariest) part is that most of it goes over water. The piles of the bridge go as deep as 275 feet in some parts! \n
+    </string>
+
+    <string name="bt2">
+
+The Wuhan Metro Bridge links the massive Chinese city of Wuhan (10.6 million) together. Wuhan, located in the populous Hubei province, was only the fifth city in China to have a metro rail line built. The bridge was built in 2009 (the initial line, Line 1, was completed in 2004) and, because of Wuhan’s location along the Yangtze and Han rivers, spans over massive amounts of water. Wuhan is a major transportation hub in China and was the wartime capital of the country during the Japanese invasion. \n
+
+    </string>
+
+    <string name="bt3">
+The Causeway was completed in 1969 and held the world record for the longest bridge over water until 2011, when the Jiaozhao Bridge, in China, was built. The Causeway connects Metairie, an immediate suburb of New Orleans to Mandeville, in what is commonly referred to as the North Shore. It is the last American bridge on this list. \n
+    </string>
+
+    <string name="bt4">
+ The capital city of China’s Grand Bridge is part of the massive, sprawling Beijing-Shanghai high-speed railway project, was completed in 2010. Despite only serving the city of Beijing and its suburbs, the Beijing Grand Bridge still manages to make the Top 10 list here. \n
+    </string>
+
+    <string name="bt5">
+The longest roadway in the world today, the Thai bridge was the world’s longest from the time of its completion, in 2000, until 2004, when it was replaced by the Changhua-Kaohsiung Viaduct in Taiwan. Bang Na (officially the Burapha Withi Expressway) connects Bangkok as a toll road and was built by a consortium of Thai, German, American, and Swedish interests and is the last roadway on this list. \n
+    </string>
+
+    <string name="bt6">
+This massive bridge manages to cross the Wei River twice, and is part of the Zhengzhou-Xi’an High-Speed Railway megaplex. The bridge was completed in 2008, and it held the title of longest bridge in the world before being surpassed by a couple of other bridges (both part of the Beijing-Shanghai High-Speed Railway project) in 2010. \n
+    </string>
+
+    <string name="bt7">
+One of the aforementioned bridges completed in 2010 was the Tianjin Grand Bridge, which officially opened in 2011. Tianjin, the fourth largest city in China, is located along the coast and in between Beijing and Shanghai. Keep your eyes and ears peeled for the name in the future, for it is a world-class city with a marvelous future ahead. \n
+    </string>
+
+    <string name="bt8">
+
+Another bridge that is part of the Beijing-Shanghai High-Speed Railway project, it too was completed in 2010. The bridge has almost 3,100 piers and was built to be earthquake proof. Cangde competes with Tianjin for the third spot on most lists, thanks to small maintenance and construction projects that both bridges continue to receive. \n
+
+    </string>
+
+    <string name="bt9">
+ Built in 2004, Taiwan’s Changhua-Kaohshing Viaduct was the world’s longest bridge until 2010 and
+    is one of the rebellious polity’s finest achievements of any kind. A high-speed rail line, this
+    bridge is part of the Taiwan High Speed Rail network that runs up and down the west coast of the
+    island. The entire line (including the bridge) was built by Taiwanese engineers with Japanese
+    technology. \n
+    </string>
+
+    <string name="bt10">
+Built in 2010, this bridge is part of the Beijing-Shanghai High-Speed Railway project that has been such a prominent part of this list. The Danyang-Kunshan Grand Bridge operates between Shanghai, the financial capital of China, and Nanjing, a neighbouring city with a metro area lording over 30 million souls. The two cities reside in the Yangtze River Delta, one of the cradles of civilization (archaeologists are quick to point out that China had two cradles of civilization: one on the Yellow River and one on the Yangtze River). The Delta itself is home to about 140 million people, and is China’s economic engine of growth, productivity, and creativity. The engineering feat of the Danyang-Kunshan Grand Bridge provides seeable proof of the Delta’s contributions to humanity. \n
+    </string>
+
+
+</resources>
